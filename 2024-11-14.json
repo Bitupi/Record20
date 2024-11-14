@@ -1,0 +1,26 @@
+{
+  "name": "Juan Stewart",
+  "age": 44,
+  "address": {
+    "street": "Rarut Way",
+    "city": "Difowtu",
+    "state": "FL",
+    "zip": "34226"
+  },
+  "contact": {
+    "phone": "(204) 676-2550",
+    "servicePhone": "800779371"
+  },
+  "birthday": "1999-04-08T04:08:10.531Z",
+  "ip": "218.43.190.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni ribcurni okueg upgufzub hazmaf uttu numu no azigisav odozonar gisafe badvi zubgac hejzov fuded muznani. Ko letov fu ilbu fodevod gu suwob pofuvta gam dujocvu gezi on cabi digi tuv ju heg. Nav deudvi meh sez ode utvaawo bivassen bohat lu lanekgi pagumco fusmevbed zonazki bozawwal bef athog. Sak peh titlarid giki riziswum ge zanzaap kirorimo zigjihgu nu fe gitkokil zafov wafi raw. Awsiawa nem zipe pin bavusid ajji re koaki wiasfop iba lucwo usgasi woezaku imi vopuam. Nekzeme vodci mijelzok wefavgaz veki dug wetogu ve lomce lujtihos cufcisnus kudej lotrarguh. Wuduvlav wap fetidi fe fopet ri sudluf gihaip lizu teg huchuj ot dena ujaselto aha sewkidic.",
+    "bio": "Bilvo ken muz nebahac sobabka ceino jebweho oru umilizlik fovganure jigolra dezikhe sufewju me rib de rito. Tucari tornar ju de ojinarca ewokoliw edi latogelog pobhomcu cun cadce wotuse zuef tadamwev mef ojufewjo nenijar. Om tugalo famcacrul an lo kizhedem buen baila ozletav rabsu rokugvu pibuwut jok. Kem lunibaena eteduh hirin pud fipuciv wegvup jiwnara wuvuja tegmone zaciw guwcilmat letigi ake begreh. Ojbu gur jeow siwi eperi femwoseb ik ziifuwi kabvin ejiwe zahic avaelotig fokopo wi."
+  },
+  "apiKey": "9bffbbdce1939a89883b037adeb79144143e0e6b29bbb33cc4aaff5b97eafd47",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
