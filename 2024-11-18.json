@@ -1,0 +1,26 @@
+{
+  "name": "Chris Bates",
+  "age": 23,
+  "address": {
+    "street": "Ecehe Grove",
+    "city": "Juobigeh",
+    "state": "UT",
+    "zip": "31147"
+  },
+  "contact": {
+    "phone": "(542) 321-4751",
+    "servicePhone": "800335718"
+  },
+  "birthday": "1974-08-27T09:21:52.459Z",
+  "ip": "87.165.69.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Egavi dumo ob vevomop sonezep to utobu iveurituf fanmiot cu sefa gadga vof. Etkupo owida mume wakfi lo gu rebze engu okce opa obiuz eta wu. Bujnezse ladiwgod duwsonmi nah pus tivelko siadkiv ikrukpu fi beb kudiv tokehib is. Egkiddez utionu he pifi nuafiil fatoabi lur nuz coz pokoh biwte ocadoevu wogiko ke ifmogwe avi josevop ufwi.",
+    "bio": "Ipiguge altiha poka varenoc el givuzimoc tuefewo obsiif jecaffig cicgot ihu huurmew wapufep had rarhuppe ocija opefisem girurar. Etse idivamno midizul hizav gekim hohut etafo werewe vara tev orzezdan veniste bojip. Loba le limosi fe wi lewo gukmejo siluhot uccugit migmotan fora rizki komi pov."
+  },
+  "apiKey": "1ca279cfe803d86688622e12bd62af48e2e577db0cdf884df1917df5fb577a51",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
