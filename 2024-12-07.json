@@ -1,0 +1,26 @@
+{
+  "name": "Don Zimmerman",
+  "age": 27,
+  "address": {
+    "street": "Wajla Glen",
+    "city": "Cuvalni",
+    "state": "VT",
+    "zip": "87609"
+  },
+  "contact": {
+    "phone": "(928) 912-7417",
+    "servicePhone": "800584153"
+  },
+  "birthday": "1975-09-09T03:36:10.525Z",
+  "ip": "99.248.178.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Hi cojamap giwfene peb bubmo us ducuzo homfuun wob assapfih nedcazib ab. Guvtokov ji at veguz du rezeb dupimecu benzi awri gi lezu tuwo umguhu pazba. Horo tobpe reucwuk adosuwmu fologiimo ci roh kiruume vajopun fizipzo fugo boewu liufuw wogse.",
+    "bio": "Upesa logo acupundi hadjahtec co ur nawi jil gapitug le vic voiwose muk zahhefe egaereta rogmod. Hewwavot bael de dat sat ani guh zucucna mofod gozo ufhozor upbu ammel. Tibo detbuje pumdu ke sienidu zobtetin milpig etuvif fa wabtubut kepazuwo uligo iz kolsawim doazkot. Bo memtum mildalu jorsedpus mikeclas lukev vub vara jih okagul wepmovag ihu."
+  },
+  "apiKey": "ece64c5af856cbb6a39e66adbda1d2afda1b10f5485743cb27c807ebbcdef776",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
